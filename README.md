@@ -1,6 +1,6 @@
 ## Application Details
 ## First Demo on GitHub
-## Second Statement for pushing into Branch
+## Second Statement for pushing into conflicts
 |               |
 | ------------- |
 |**Generation Date and Time**<br>Fri Apr 19 2024 13:14:13 GMT+0000 (Coordinated Universal Time)|
